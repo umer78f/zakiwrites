@@ -575,7 +575,7 @@ h2 {
   padding-top: 4px;
   color: var(--signal);
   font-family: "DM Sans", sans-serif;
-  font-size: 32px;
+  font-size: 24px;
   font-weight: 700;
 }
 
@@ -623,7 +623,7 @@ h2 {
 
 .skill h3 {
   font-family: "DM Sans", sans-serif;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 1.25;
 }
